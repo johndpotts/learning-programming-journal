@@ -1,8 +1,12 @@
-### 08-28-2017
+
+
+### 08-29-2017
 - Completed JS 30 day 4(array cardio)
 - worked on a python program to search a postgreSQL database
+- worked out some tough sql queries and learned more about where to include foreign keys
 - Worked on "case" SQL queries
-- Typing practice
+- Typing practice (60 wom)
+- Dug deeper into CSS/HTML rules while workng on website sample. Learned all about z-index tricks!
 - 
 
 ### 08-28-2017
