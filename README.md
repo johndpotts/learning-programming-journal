@@ -10,6 +10,11 @@
 4. Choose one of the following to pursue: C#/.net, MEAN stack, Java, React, ??? 
 5. Choose one of the following
 
+### 08-30-17
+- Worked on python interactions with postgreSQL database
+= researched SQlite
+- researched networking bascs
+- typing practice
 
 ### 08-29-2017
 - Completed JS 30 day 4(array cardio)
