@@ -4,7 +4,7 @@
 2. go through pluralsight
 3. begin udemy mongo,node,and angular courses
 
-## My Way-too-ambitious September Goals:
+## My way-too-ambitious September Goals:
 1. Finish full Stack Nanodegree
 2. Attend a CLT Dev meetup
 3. Finish front-end cert from free code camp
