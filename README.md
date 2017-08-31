@@ -12,7 +12,10 @@
 
 ### 08-31-17
 - started simon game app
-- learned workflow in vicual studio
+- learned workflow in visual studio
+- typing practice
+= practiced JS algorithms
+- took C# beginning knowledge test
 
 ### 08-30-17
 - Worked on python interactions with postgreSQL database
