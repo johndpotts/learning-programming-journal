@@ -1,20 +1,27 @@
 
 ## My way-too-ambitious October Goals:
 1. Start and complete an actual team project using git
-2. Keep going on my learning path
+2. go through pluralsight
+3. begin udemy mongo,node,and angular courses
 
 ## My Way-too-ambitious September Goals:
 1. Finish full Stack Nanodegree
 2. Attend a CLT Dev meetup
 3. Finish front-end cert from free code camp
-4. Choose one of the following to pursue: C#/.net, MEAN stack, Java, React, ??? 
-5. Choose one of the following
+4. Start learning basics of Visual Studio and write some beginner C# apps
+
+### 08-31-17
+- started simon game app
+- learned workflow in vicual studio
 
 ### 08-30-17
 - Worked on python interactions with postgreSQL database
 = researched SQlite
 - researched networking bascs
 - typing practice
+- got started in visual studio (worked with only atom and notepad ++ until now.)
+- Wrote and tested a C# `hello World` console app
+- finished python project for udacity
 
 ### 08-29-2017
 - Completed JS 30 day 4(array cardio)
