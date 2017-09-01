@@ -10,6 +10,12 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+### 09-01-17
+- worked on queries in SQLAlchemy
+- Created an SQLite database for experimentation
+- Read through SQLAlchemy documentation
+- 
+
 ### 08-31-17
 - started simon game app
 - learned workflow in visual studio
@@ -19,7 +25,7 @@
 
 ### 08-30-17
 - Worked on python interactions with postgreSQL database
-= researched SQlite
+= researched SQLite
 - researched networking bascs
 - typing practice
 - got started in visual studio (worked with only atom and notepad ++ until now.)
