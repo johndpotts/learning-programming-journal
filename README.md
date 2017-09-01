@@ -46,7 +46,7 @@
 - worked out some tough sql queries and learned more about where to include foreign keys
 - Worked on "case" SQL queries
 - Typing practice (passed 60 wpm!)
-- Dug deeper into CSS/HTML rules while workng on website sample.
+- Dug deeper into CSS/HTML rules while working on website sample.
 1. z-index
 2. parent/child elements
 3. making custom page icons
