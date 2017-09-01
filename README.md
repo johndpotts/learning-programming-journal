@@ -14,7 +14,10 @@
 - worked on queries in SQLAlchemy
 - Created an SQLite database for experimentation
 - Read through SQLAlchemy documentation
-- 
+- performed CRUD operations on this database using python
+= practiced JS algorithms
+- typing practice
+- started looking into switching an old laptop over to linux
 
 ### 08-31-17
 - started simon game app
