@@ -1,8 +1,8 @@
 
 ## My way-too-ambitious October Goals:
 1. Start and complete an actual team project using git
-2. go through pluralsight
-3. begin udemy mongo,node,and angular courses
+2. begin either pluralsight C#/.net or udemy mongo, node, and angular courses
+
 
 ## My way-too-ambitious September Goals:
 1. Finish full Stack Nanodegree
