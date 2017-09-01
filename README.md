@@ -15,9 +15,13 @@
 - Created an SQLite database for experimentation
 - Read through SQLAlchemy documentation
 - performed CRUD operations on this database using python
+- learned what orm means
 = practiced JS algorithms
 - typing practice
 - started looking into switching an old laptop over to linux
+- Finished another advanced FCC JS algorithm
+- In the process of finishing the above algorithm, did a lot of reading on recursion & trampolining in JS
+- worked on scorekeeping in simon game app
 
 ### 08-31-17
 - started simon game app
@@ -25,14 +29,15 @@
 - typing practice
 = practiced JS algorithms
 - took C# beginning knowledge test
+- looked around on Pluralsight to begin evaluating a C# learning path
 
 ### 08-30-17
 - Worked on python interactions with postgreSQL database
 = researched SQLite
-- researched networking bascs
+- researched networking basics
 - typing practice
 - got started in visual studio (worked with only atom and notepad ++ until now.)
-- Wrote and tested a C# `hello World` console app
+- Wrote and tested a C# `Hello World` console app
 - finished python project for udacity
 
 ### 08-29-2017
@@ -42,10 +47,11 @@
 - Worked on "case" SQL queries
 - Typing practice (passed 60 wpm!)
 - Dug deeper into CSS/HTML rules while workng on website sample.
-    -z-index
-    -parent/child elements
-    -making custom page icons
--celebrated 2 months of coding!
+1. z-index
+2. parent/child elements
+3. making custom page icons
+4. accessibility
+#### celebrated 2 months of coding!!!
 
 ### 08-28-2017
 - Typing practice
