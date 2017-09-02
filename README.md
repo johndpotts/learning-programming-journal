@@ -12,9 +12,11 @@
 
 ### 09-02-17
 - completed another advanced fcc JS Algorithm
--practiced regex searches
--practiced sql queries
--typing practice
+- practiced regex searches
+- practiced sql queries
+- typing practice
+- worked on Simon game
+- worked on carousels and cards in bootstrap
 
 
 ### 09-01-17
