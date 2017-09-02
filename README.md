@@ -10,6 +10,13 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+### 09-02-17
+- completed another advanced fcc JS Algorithm
+-practiced regex searches
+-practiced sql queries
+-typing practice
+
+
 ### 09-01-17
 - worked on queries in SQLAlchemy
 - Created an SQLite database for experimentation
