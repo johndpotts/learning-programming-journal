@@ -16,7 +16,7 @@
 - Read through SQLAlchemy documentation
 - performed CRUD operations on this database using python
 - learned what orm means
-= practiced JS algorithms
+- practiced JS algorithms
 - typing practice
 - started looking into switching an old laptop over to linux
 - Finished another advanced FCC JS algorithm
