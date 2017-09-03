@@ -10,6 +10,12 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+### 09-03-17
+- updated weather app
+- turned sinom game workflow into functions
+- typing practice
+- worked on sample website
+
 ### 09-02-17
 - finished remaining FreeCodeCamp advanced algorithms!
 - practiced regex searches
@@ -17,7 +23,6 @@
 - typing practice
 - worked on Simon game
 - worked on carousels and cards in bootstrap
-
 
 ### 09-01-17
 - worked on queries in SQLAlchemy
