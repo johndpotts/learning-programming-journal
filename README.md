@@ -11,7 +11,7 @@
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
 ### 09-02-17
-- completed another advanced fcc JS Algorithm
+- finished remaining FreeCodeCamp advanced algorithms!
 - practiced regex searches
 - practiced sql queries
 - typing practice
