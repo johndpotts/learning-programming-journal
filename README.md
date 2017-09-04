@@ -15,6 +15,8 @@
 - turned sinom game workflow into functions
 - typing practice
 - worked on sample website
+- fleshed out a python app to translate get & post requests into CRUD operations on a database
+- did a bunch of reading on "this" and objects in JS and on AngularJS vs Angular vs React
 
 ### 09-02-17
 - finished remaining FreeCodeCamp advanced algorithms!
