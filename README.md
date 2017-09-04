@@ -10,6 +10,13 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+### 09-04-17
+- worked with the flask framework in python to build a menu editing app
+- typing practice
+- practiced JS algorithms
+- began studyng iterative development and Agile
+- worked on a sample website
+
 ### 09-03-17
 - updated weather app
 - turned sinom game workflow into functions
