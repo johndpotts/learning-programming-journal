@@ -16,6 +16,7 @@
 - practiced JS algorithms
 - began studyng iterative development and Agile
 - worked on a sample website
+- wrote my first API endpoint!
 
 ### 09-03-17
 - updated weather app
