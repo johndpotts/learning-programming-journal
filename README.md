@@ -10,6 +10,13 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+### 09-05-17
+- implemented oauth2 authentication functionality on a python web app
+- researched 3rd party authentication methods
+- worked on ajax calls and jquery on a page
+- practiced typing
+- js algorithms
+
 ### 09-04-17
 - worked with the flask framework in python to build a menu editing app
 - typing practice
