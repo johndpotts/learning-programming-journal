@@ -16,6 +16,7 @@
 - worked on ajax calls and jquery on a page
 - practiced typing
 - js algorithms
+- began C# learning track on pluralsight - created first C# program with branches
 
 ### 09-04-17
 - worked with the flask framework in python to build a menu editing app
