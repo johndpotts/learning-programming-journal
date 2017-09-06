@@ -12,11 +12,12 @@
 
 ### 09-05-17
 - implemented oauth2 authentication functionality on a python web app
+- wrote the first part of my third c# app
 - researched 3rd party authentication methods
 - worked on ajax calls and jquery on a page
 - practiced typing
 - js algorithms
-- began C# learning track on pluralsight - created first C# program with branches
+- began C# learning track on pluralsight - created second C# program
 
 ### 09-04-17
 - worked with the flask framework in python to build a menu editing app
