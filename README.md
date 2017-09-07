@@ -10,6 +10,20 @@
 3. Finish front-end cert from free code camp
 4. Start learning basics of Visual Studio and write some beginner C# apps
 
+
+### 09-07-17
+- worked on portfolio site
+- studied CSS on Lynda
+- worked on JQuery
+- began Udacity final back end project (item catalogue)
+
+
+### 09-06-17
+- worked on portfolio site
+- c# reading
+- worked with bootstrap and icons
+- finished Udacity section on FB authentificaton
+
 ### 09-05-17
 - implemented oauth2 authentication functionality on a python web app
 - wrote the first part of my third c# app
