@@ -8,7 +8,17 @@
 1. Finish full Stack Nanodegree
 2. Attend a CLT Dev meetup
 3. Finish front-end cert from free code camp
-4. Start learning basics of Visual Studio and write some beginner C# apps
+~~4. Start learning basics of Visual Studio and write some beginner C# apps~~
+
+### 09-08-17
+- worked on linux configuration
+- continued working on C# gradebook app
+- JS algorithms
+- cleaned up calculator app
+- worked on python back end for item catalogue
+- photo editing in GIMP
+- typing practice
+- SQL queries
 
 
 ### 09-07-17
@@ -16,6 +26,8 @@
 - studied CSS on Lynda
 - worked on JQuery
 - began Udacity final back end project (item catalogue)
+- typing practice
+- reviewed markdown syntax
 
 
 ### 09-06-17
