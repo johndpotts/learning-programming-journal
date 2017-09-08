@@ -8,7 +8,7 @@
 1. Finish full Stack Nanodegree
 2. Attend a CLT Dev meetup
 3. Finish front-end cert from free code camp
-~~4. Start learning basics of Visual Studio and write some beginner C# apps~~
+4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 
 ### 09-08-17
 - worked on linux configuration
