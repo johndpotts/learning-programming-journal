@@ -19,6 +19,7 @@
 - photo editing in GIMP
 - typing practice
 - SQL queries
+- finished  Simon game
 
 
 ### 09-07-17
