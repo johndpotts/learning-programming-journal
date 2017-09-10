@@ -9,6 +9,15 @@
 2. Attend a CLT Dev meetup
 3. Finish front-end cert from free code camp
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
+5. have a decent-looking portfolio done
+
+### 09-09-17
+- worked on integrating parallax scrolling & haptic feedback on mobile
+- wrote up punch list to prepare portfolio & began turning tasks into issues on GitHub
+- went over JS algorithms
+- fixed CSS bugs
+- fixed timing issue on Simon game
+- started punching out issues 
 
 ### 09-08-17
 - worked on linux configuration
