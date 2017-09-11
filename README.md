@@ -11,6 +11,15 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. have a decent-looking portfolio done
 
+### 09-11-17
+- fixing bugs & completing punchlist on FCC apps
+- one example: fixed screen sizing, decimal point, & floating point  bugs on calculator
+
+
+### 09-10-17
+- created punchlist for review of apps and portfolio
+- chipped away at punch list, refactored code from a month ago.
+
 ### 09-09-17
 - worked on integrating parallax scrolling & haptic feedback on mobile
 - wrote up punch list to prepare portfolio & began turning tasks into issues on GitHub
