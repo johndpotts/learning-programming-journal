@@ -7,9 +7,24 @@
 ## My way-too-ambitious September Goals:
 1. Finish full Stack Nanodegree
 2. Attend a CLT Dev meetup
-3. Finish front-end cert from free code camp
+3. ~~Finish front-end cert from free code camp~~
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
-5. have a decent-looking portfolio done
+5. ~~have a decent-looking portfolio done~~
+
+### 09-14-17
+- worked on advanced JS concepts (NaN !== NaN, null is an object, etc)
+- studed more about JSON vs XML, REST vs SOAP API's
+- learned about key components of a RESTful API
+
+### 09-13-17
+- finished final touches on portfolio
+- added CSS sugar
+- put up links for testing and github on portfolio items
+- redesigned portfolio using design concepts like whitespace and contrast
+
+### 09-12-18
+- fixing bugs & completing punchlist on FCC apps
+- one example: redesigned entire look of one app and fixed some bugs with open graph meta tags
 
 ### 09-11-17
 - fixing bugs & completing punchlist on FCC apps
