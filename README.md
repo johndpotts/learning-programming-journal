@@ -11,6 +11,12 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
 
+### 09-15-17
+- Made my first D3 charts
+- HTTP request is made up of request line (verb,URI,version), then optional request headers, then space, then addtl. info(body).
+- HTTP response is made up of status line(version, status code, reason phrase), then optional response headers(name:value pairs), a space, and body.
+- learned about postman and curl
+
 ### 09-14-17
 - worked on advanced JS concepts (NaN !== NaN, null is an object, etc)
 - studed more about JSON vs XML, REST vs SOAP API's
