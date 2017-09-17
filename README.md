@@ -11,6 +11,16 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
 
+### 09-16-17
+- Created another D3 chart
+- added to an existing C# program
+- looked into gulp/grunt
+- looked into sass/less
+- worked through a C# module on pluralsight
+- practiced JS algorithms
+- practiced regex searches
+- practiced SQL queries
+
 ### 09-15-17
 - Made my first D3 charts
 - HTTP request is made up of request line (verb,URI,version), then optional request headers, then space, then addtl. info(body).
