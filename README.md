@@ -1,15 +1,25 @@
 
 ## My way-too-ambitious October Goals:
 1. Start and complete an actual team project using git
-2. begin either pluralsight C#/.net or udemy mongo, node, and angular courses
+2. complete udemy C# course
+3. build a website for a non-profit (good way to try out wordpress too?)
+4. build the front end of a site from comps
+5. finish two d3 challenges on freecodecamp
+6. write one small c# project per week
 
 
 ## My way-too-ambitious September Goals:
-1. Finish full Stack Nanodegree
+1. ~~Finish full Stack Nanodegree~~ - **edit: decided to switch to pursuing C#/.net instead.**
 2. Attend a CLT Dev meetup
 3. ~~Finish front-end cert from free code camp~~
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
+
+### 09-17-17
+- practiced JS algorithms
+- practiced SQL queries
+- worked on C# udemy course
+- worked on d3 project
 
 ### 09-16-17
 - Created another D3 chart
