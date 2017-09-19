@@ -10,10 +10,24 @@
 
 ## My way-too-ambitious September Goals:
 1. ~~Finish full Stack Nanodegree~~ - **edit: decided to switch to pursuing C#/.net instead.**
-2. Attend a CLT Dev meetup
+2. ~~Attend a CLT Dev meetup~~
 3. ~~Finish front-end cert from free code camp~~
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
+
+### 09-19-17
+- attended a CLT Dev meetup
+- installed node, used npm and gulp for the first time
+- worked with LESS, configured GULP wth LESS
+- added an algorithm challenge section to personal site
+- worked on C# course
+
+### 09-18-17
+- worked on C# udemy course; created a few basic c# apps
+- completed "bonus challenge" to put more details in dice roll C# app
+- researched MVC applications and Xamarin
+- algorithm practice
+- sql queries
 
 ### 09-17-17
 - practiced JS algorithms
