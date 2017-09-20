@@ -19,6 +19,8 @@
 - finished algorithm section on personal site
 - practiced dom manipulation with JS
 - practiced working with forms in JS
+- wrote 3 small c# apps
+- learned some more VS keyboard shortcuts
 
 ### 09-19-17
 - attended a CLT Dev meetup
