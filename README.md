@@ -15,11 +15,16 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
 
+### 09-20-17
+- finished algorithm section on personal site
+- practiced dom manipulation with JS
+- practiced working with forms in JS
+
 ### 09-19-17
 - attended a CLT Dev meetup
 - installed node, used npm and gulp for the first time
 - worked with LESS, configured GULP wth LESS
-- added an algorithm challenge section to personal site
+- worked on algorithm page for personal site
 - worked on C# course
 
 ### 09-18-17
