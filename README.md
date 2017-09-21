@@ -15,6 +15,13 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
 
+### 09-21-17
+- practiced JS algorithms
+- worked on Array & String methods/properties in C#
+- worked on a D3 project
+- made up some cheat sheets
+- learned a little about docker
+
 ### 09-20-17
 - finished algorithm section on personal site
 - practiced dom manipulation with JS
