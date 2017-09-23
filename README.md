@@ -1,11 +1,11 @@
 
 ## My way-too-ambitious October Goals:
 1. Start and complete an actual team project using git
-2. complete udemy C# course
+2. ~~~complete udemy C# course~~~
 3. build a website for a non-profit (good way to try out wordpress too?)
 4. build the front end of a site from comps
 5. finish two d3 challenges on freecodecamp
-6. write one small c# project per week
+6. finish a MVC applicationn
 
 
 ## My way-too-ambitious September Goals:
@@ -14,6 +14,19 @@
 3. ~~Finish front-end cert from free code camp~~
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
+
+### 09-23-17
+- finished Udemy C# course
+- began larger C# project
+- began C# algorithms
+- JS algorithms
+- SQL queries
+
+### 09-22-17
+- finished functionality of a github search project using multiple JSON calls
+- worked on C# udemy course
+- added favicon to personal site
+- worked on promises in JS
 
 ### 09-21-17
 - practiced JS algorithms
