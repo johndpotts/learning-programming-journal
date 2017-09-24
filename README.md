@@ -15,6 +15,14 @@
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
 
+
+### 09-24-17
+- began MVA asp.net MVC course
+- learned how to use Nunit unit testing in visual studio
+- began C# algorithm exercises
+- js algorithms, sql queries
+
+
 ### 09-23-17
 - finished Udemy C# course
 - began larger C# project
