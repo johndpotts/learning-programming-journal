@@ -1,20 +1,15 @@
+Jump To:
+[October](##october-goals)
+[September](##september-goals)
+[August](##august-goals)
 
-## My way-too-ambitious October Goals:
+## October Goals:
 1. Start and complete an actual team project using git
 2. ~~~complete udemy C# course~~~
 3. build a website for a non-profit (good way to try out wordpress too?)
 4. build the front end of a site from comps
 5. finish two d3 challenges on freecodecamp
 6. finish a MVC applicationn
-
-
-## My way-too-ambitious September Goals:
-1. ~~Finish full Stack Nanodegree~~ - **edit: decided to switch to pursuing C#/.net instead.**
-2. ~~Attend a CLT Dev meetup~~
-3. ~~Finish front-end cert from free code camp~~
-4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
-5. ~~have a decent-looking portfolio done~~
-
 
 ### 09-24-17
 - began MVA asp.net MVC course
@@ -191,6 +186,13 @@
 - In the process of finishing the above algorithm, did a lot of reading on recursion & trampolining in JS
 - worked on scorekeeping in simon game app
 
+## September Goals:
+1. ~~Finish full Stack Nanodegree~~ - **edit: decided to switch to pursuing C#/.net instead.**
+2. ~~Attend a CLT Dev meetup~~
+3. ~~Finish front-end cert from free code camp~~
+4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
+5. ~~have a decent-looking portfolio done~~
+
 ### 08-31-17
 - started simon game app
 - learned workflow in visual studio
@@ -259,6 +261,14 @@
 
 ### 08-01-2017
 -Started Udaciy Fullstack nanodegree
+
+## August Goals:
+(added after the fact)
+1. ~~Learn the basic components of full stack web development~~ 
+2. ~~complete more FCC challenges~~
+3. ~~learn basics of python~~
+4. ~~learn basics of SQL~~
+5. ~~hwork on udacity nanodegree~~
 
 ### 07-20-17
 - First actual commit to a repo (mole game)
