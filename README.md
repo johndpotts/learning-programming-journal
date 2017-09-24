@@ -1,9 +1,9 @@
 Jump To:
-[October](##october-goals-:)
-[September](##september-goals-:)
-[August](##august-goals-:)
+[October](##october-goals)
+[September](##september-goals)
+[August](##august-goals)
 
-## October Goals:
+## October Goals
 1. Start and complete an actual team project using git
 2. ~~~complete udemy C# course~~~
 3. build a website for a non-profit (good way to try out wordpress too?)
@@ -186,7 +186,7 @@ Jump To:
 - In the process of finishing the above algorithm, did a lot of reading on recursion & trampolining in JS
 - worked on scorekeeping in simon game app
 
-## September Goals:
+## September Goals
 1. ~~Finish full Stack Nanodegree~~ - **edit: decided to switch to pursuing C#/.net instead.**
 2. ~~Attend a CLT Dev meetup~~
 3. ~~Finish front-end cert from free code camp~~
@@ -262,7 +262,7 @@ Jump To:
 ### 08-01-2017
 -Started Udaciy Fullstack nanodegree
 
-## August Goals:
+## August Goals
 (added after the fact)
 1. ~~Learn the basic components of full stack web development~~ 
 2. ~~complete more FCC challenges~~
