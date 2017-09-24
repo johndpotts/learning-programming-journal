@@ -1,7 +1,7 @@
 Jump To:
-[October](##october-goals)
-[September](##september-goals)
-[August](##august-goals)
+[October](#october-goals)
+[September](#september-goals)
+[August](#august-goals)
 
 ## October Goals
 1. Start and complete an actual team project using git
