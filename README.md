@@ -11,6 +11,16 @@ Jump To:
 5. finish two d3 challenges on freecodecamp
 6. finish a MVC applicationn
 
+
+
+### 09-25-17
+- worked on C# algorithm exercises
+- built a set of c# flashcards to work on retention of language
+- began work on MVC application
+- researched LINQ
+- practiced SQL queries
+- fine-tuning on github search app
+
 ### 09-24-17
 - began MVA asp.net MVC course
 - learned how to use Nunit unit testing in visual studio
