@@ -215,6 +215,7 @@ Jump To:
 3. ~~Finish front-end cert from free code camp~~
 4. ~~Start learning basics of Visual Studio and write some beginner C# apps~~
 5. ~~have a decent-looking portfolio done~~
+6. ~~get some experience with AngularJS, React, and Angular2~~
 
 ### 08-31-17
 - started simon game app
