@@ -9,14 +9,27 @@ Jump To:
 3. build a website for a non-profit (good way to try out wordpress too?)
 4. build the front end of a site from comps
 5. finish two d3 challenges on freecodecamp
-6. finish a MVC applicationn
+6. finish a MVC application
 
 
+
+### 09-27-17
+- worked on Angular app
+- completed React tutorial
+- worked on NCTrails MVC app
+
+
+### 09-26-17
+- went through data binding exercise in AngularJS
+- continued working through MVC app tutorial
+- began independant MVC project (NCTrails)
+- deployed python bookmark server to heroku
+- updated portfolio
 
 ### 09-25-17
 - worked on C# algorithm exercises
 - built a set of c# flashcards to work on retention of language
-- began work on MVC application
+- began work on MVC application tutorial
 - researched LINQ
 - practiced SQL queries
 - fine-tuning on github search app
