@@ -12,6 +12,11 @@ Jump To:
 6. finish a MVC application
 
 
+### 09-28-17
+- worked on NCTrails MVC app
+- started ASP.NET Core2 app
+- studied up on LINQ
+- C# algorithms
 
 ### 09-27-17
 - worked on Angular app
