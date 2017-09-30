@@ -11,10 +11,19 @@ Jump To:
 5. finish two d3 challenges on freecodecamp
 6. finish a MVC application
 
+### 09-30-17
+- c# algorithms
+- LINQ practice
+- worked on movies app
+
+### 09-29-17
+- finished functionality on movies app
+- c# algorithms
+- studied design patterns
 
 ### 09-28-17
 - worked on NCTrails MVC app
-- started ASP.NET Core2 app
+- started ASP.NET Core2 app (movies app)
 - studied up on LINQ
 - C# algorithms
 
