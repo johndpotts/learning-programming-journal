@@ -10,6 +10,13 @@ Jump To:
 4. build the front end of a site from comps      
 5. finish two d3 challenges on freecodecamp   (1/2)
 6. finish a MVC application                (in progress)
+7. Build multiple apps with AngularJS
+
+### 10-02-17
+- worked on Mint Hill Music app
+- started AngularJS Financial app
+- joined CodeWars and completed 3 C# algorithms
+
 
 ### 10-01-17
 - seeding data into MVC app
