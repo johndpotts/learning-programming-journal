@@ -9,8 +9,28 @@ Jump To:
 3. build a website for a non-profit (good way to try out wordpress too?)    
 4. build the front end of a site from comps      
 5. finish two d3 challenges on freecodecamp   (1/2)
-6. finish a MVC application                (in progress)
-7. Build multiple apps with AngularJS
+6. ~~finish a MVC application~~                (in progress)
+7. ~~Build multiple apps with AngularJS~~
+
+### 10-06-17
+- js & C# algorithm practice
+- added oauth2 signins to C# quiz
+- worked on angular
+
+### 10-05-17
+- js & C# algorithm practice
+- signed up and configured azure to host asp.net apps
+- deployed "C# quiz" to azure
+- worked on angular
+
+### 10-04-17
+- js & C# algorithm practice
+- finished angular financial app
+- worked on LINQ queries
+
+### 10-03-17
+- started at codewars for daily C# & javascript practice
+- worked on LINQ queries
 
 ### 10-02-17
 - worked on Mint Hill Music app
