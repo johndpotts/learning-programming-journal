@@ -12,6 +12,13 @@ Jump To:
 6. ~~finish a MVC application~~                (in progress)
 7. ~~Build multiple apps with AngularJS~~
 
+### 10-07-17
+- algorithm practice in c# and js
+- updated readme's on personal projects
+- worked on angularJS
+- worked on expense manager app
+-  added oauth2 to Mint Hill Music app
+
 ### 10-06-17
 - js & C# algorithm practice
 - added oauth2 signins to C# quiz
