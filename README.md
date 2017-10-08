@@ -11,6 +11,12 @@ Jump To:
 5. finish two d3 challenges on freecodecamp   (1/2)
 6. ~~finish a MVC application~~                (in progress)
 7. ~~Build multiple apps with AngularJS~~
+### 10-08-17
+- algorithm practice in c# and js
+- began linq course on pluralsight
+
+
+
 
 ### 10-07-17
 - algorithm practice in c# and js
