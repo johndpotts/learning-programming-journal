@@ -4,16 +4,23 @@ Jump To:
 [August](#august-goals)
 
 ## October Goals
-1. Start an actual team project using git/github  (planning meeting Oct 5)
-2. ~~~complete udemy C# course~~~
+1. ~~Start an actual team project using git/github  (planning meeting Oct 5)~~
+2. ~~complete udemy C# course~~
 3. build a website for a non-profit (good way to try out wordpress too?)    
 4. build the front end of a site from comps      
 5. finish two d3 challenges on freecodecamp   (1/2)
 6. ~~finish a MVC application~~                (in progress)
 7. ~~Build multiple apps with AngularJS~~
+
+### 10-09-17
+- worked on CLTDevs static page; integrated meetup API
+- learned how to work with timestamp in JS
+
+
 ### 10-08-17
 - algorithm practice in c# and js
 - began linq course on pluralsight
+- worked on stock ticker app
 
 
 
