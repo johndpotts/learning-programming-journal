@@ -12,6 +12,15 @@ Jump To:
 6. ~~finish a MVC application~~                (in progress)
 7. ~~Build multiple apps with AngularJS~~
 
+### 10-11-17
+- bug fixes and email functionality on Quiz app
+- C# and Javascript algorithms
+
+### 10-10-17
+- Quiz app layout fixes
+- studied angularJS
+- algorithm practice in c# and js
+
 ### 10-09-17
 - worked on CLTDevs static page; integrated meetup API
 - learned how to work with timestamp in JS
@@ -21,8 +30,6 @@ Jump To:
 - algorithm practice in c# and js
 - began linq course on pluralsight
 - worked on stock ticker app
-
-
 
 
 ### 10-07-17
