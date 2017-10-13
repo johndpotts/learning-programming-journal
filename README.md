@@ -12,6 +12,17 @@ Jump To:
 6. ~~finish a MVC application~~                (in progress)
 7. ~~Build multiple apps with AngularJS~~
 
+### 10-13-17
+- code katas
+- continued angular 4 tutorial
+- worked on C# console app in order to get experience with async/await
+
+### 10-12-17
+- started angular 4 tutorial
+- worked on using async/await in C#
+- code katas (algorithms in JS & C#))
+- added C# quiz app to personal portfolio
+
 ### 10-11-17
 - bug fixes and email functionality on Quiz app
 - C# and Javascript algorithms
