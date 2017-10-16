@@ -4,13 +4,13 @@ Jump To:
 [August](#august-goals)
 
 ## October Goals
-1. ~~Start an actual team project using git/github  (planning meeting Oct 5)~~
-2. ~~complete udemy C# course~~
-3. build a website for a non-profit (good way to try out wordpress too?)    
-4. build the front end of a site from comps      
-5. finish two d3 challenges on freecodecamp   (1/2)
-6. ~~finish a MVC application~~                (in progress)
-7. ~~Build multiple apps with AngularJS~~
+- [x] Start an actual team project using git/github
+- [x] Complete udemy C# course
+- [] build a website for a non-profit (good way to try out wordpress too?)    
+- [] build the front end of a site from comps      
+- [] finish two d3 challenges on freecodecamp   (1/2)
+- [x] finish an MVC application               
+- [x] Build multiple apps with AngularJS
 
 ### 10-13-17
 - code katas
