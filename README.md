@@ -12,6 +12,16 @@ Jump To:
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
 
+
+### 10-15-17
+- code katas
+- worked on Angular course
+
+### 10-14-17
+- code katas
+- vanilla JS practice
+- multi-dimensional array practice in C#
+
 ### 10-13-17
 - code katas
 - continued angular 4 tutorial
