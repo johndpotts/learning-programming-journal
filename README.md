@@ -12,6 +12,13 @@ Jump To:
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
 
+### 10-17-17
+- bug fixes on exp-mgr app
+- code katas
+
+### 10-16-17
+- code katas
+- worked on angular 4 app
 
 ### 10-15-17
 - code katas
