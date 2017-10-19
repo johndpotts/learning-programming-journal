@@ -6,11 +6,23 @@ Jump To:
 ## October Goals
 - [x] Start an actual team project using git/github
 - [x] Complete udemy C# course
-- [ ] build a website for a non-profit (good way to try out wordpress too?)    
-- [ ] build the front end of a site from comps      
+- [ ] build a website for a non-profit  
+- [x] build the front end of a site from comps      
 - [ ] finish two d3 challenges on freecodecamp   (1/2)
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
+
+### 10-19-17
+- worked on ASP.Net core2 site
+- worked on exp-mgr app
+- code katas
+
+### 10-18-17
+- code katas
+- worked on exp-mgr app
+- angularJS research
+- worked on CDevs static site
+
 
 ### 10-17-17
 - bug fixes on exp-mgr app
