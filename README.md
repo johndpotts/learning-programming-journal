@@ -16,6 +16,7 @@ Jump To:
 - worked on ASP.Net core2 site
 - worked on exp-mgr app
 - code katas
+- added exp-mgr to personal portfolio
 
 ### 10-18-17
 - code katas
