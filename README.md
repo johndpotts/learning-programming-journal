@@ -12,6 +12,13 @@ Jump To:
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
 
+### 10-20-17
+- code katas (c# string compare & JS weighted numbers)
+- began OOP in C# course on pluralsight
+- learned about how application layers are usually separated in Vis studio
+- learned terms like "entity"(something that a class can represent) and "business logic layer"
+- tweaked portfolio
+
 ### 10-19-17
 - worked on ASP.Net core2 site
 - worked on exp-mgr app
