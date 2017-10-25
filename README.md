@@ -12,6 +12,17 @@ Jump To:
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
 
+### 10-22-17
+- code katas (just javascript)
+- researched css flex
+- built out flex system for clt devs website
+- oop class on pluralsite
+
+### 10-21-17
+- reviewed some JS dom manipulation
+- code katas
+- started going back over python restaurant fullstack project to prepare for portfolio
+
 ### 10-20-17
 - code katas (c# string compare & JS weighted numbers)
 - began OOP in C# course on pluralsight
