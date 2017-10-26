@@ -6,21 +6,43 @@ Jump To:
 ## October Goals
 - [x] Start an actual team project using git/github
 - [x] Complete udemy C# course
-- [ ] build a website for a non-profit  
+- [ ] build a website for a non-profit  **in progress**
 - [x] build the front end of a site from comps      
-- [ ] finish two d3 challenges on freecodecamp   (1/2)
+- [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
 
-### 10-22-17
-- code katas (just javascript)
+### 10-26-17
+- Reviewed mixins etc in sass
+- reviewed oop design patterns vs. common ones in JS- module, singleton, 
+- code katas
+
+
+### 10-25-17
+- code katas
+- CSS review
+- worked on font end for python restaurant project
+
+### 10-24-17
 - researched css flex
 - built out flex system for clt devs website
+- built out flex system for clt devs website
+- attended enterprise guild meetup
+
+### 10-23-17
+- oop class on pluralsiight
+- angular 4 class
+- reviewed HTTPS protocal
+
+### 10-22-17
+- code katas (just javascript)
+- front end build out project
 - oop class on pluralsite
 
 ### 10-21-17
 - reviewed some JS dom manipulation
 - code katas
+- front end build out project
 - started going back over python restaurant fullstack project to prepare for portfolio
 
 ### 10-20-17
