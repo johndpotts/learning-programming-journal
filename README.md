@@ -11,6 +11,8 @@ Jump To:
 - [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
+### 10-27-17
+- dug into dom manipulation in both vanilla JS and jquery
 
 ### 10-26-17
 - Reviewed mixins etc in sass
