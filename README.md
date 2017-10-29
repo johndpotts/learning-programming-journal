@@ -3,6 +3,17 @@ Jump To:
 [September](#september-goals)
 [August](#august-goals)
 
+## November Goals
+- [ ] Build one good angular 4 app
+- [ ] Get comfortable with testing in JS
+- [ ] Use Webpack
+- [ ] Build out an e-commerce type site
+- [ ] Get comfortable on a mac!
+- [ ] Do some more data vis
+- [ ] Do more in sass
+
+
+
 ## October Goals
 - [x] Start an actual team project using git/github
 - [x] Complete udemy C# course
