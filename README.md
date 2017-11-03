@@ -39,7 +39,7 @@ Jump To:
 - worked through setting up a dev environment on a mac.
 - researched homebrew and dotfiles.
 - added a few projects to portfolio
-## Got my first official job offer!
+:grinning: :grinning: ### Got my first official job offer!:grinning: :grinning:
 
 ### 10-29-17
 - reviewed mocha, karma, and chai for JS testing
