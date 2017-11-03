@@ -39,9 +39,12 @@ Jump To:
 - worked through setting up a dev environment on a mac.
 - researched homebrew and dotfiles.
 - added a few projects to portfolio
+## Got my first official job offer!
 
 ### 10-29-17
 - reviewed mocha, karma, and chai for JS testing
+
+#### celebrated 4 months of coding!!!
 
 ### 10-28-17
 - js code katas
@@ -49,11 +52,14 @@ Jump To:
 
 ### 10-27-17
 - dug into dom manipulation in both vanilla JS and jquery
+- resolved to practice coding on a mac after embarassing myself doing live coding at an interview
 
 ### 10-26-17
 - Reviewed mixins etc in sass
 - reviewed oop design patterns vs. common ones in JS- module, singleton, 
 - code katas
+
+#### had my first in-person interview
 
 
 ### 10-25-17
@@ -199,6 +205,7 @@ Jump To:
 - finished functionality on movies app
 - c# algorithms
 - studied design patterns
+#### celebrated 3 months of coding!!!
 
 ### 09-28-17
 - worked on NCTrails MVC app
