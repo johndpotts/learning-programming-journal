@@ -6,13 +6,22 @@ Jump To:
 ## November Goals
 - [ ] Build one good angular 4 app
 - [ ] Get comfortable with testing in JS
-- [ ] Use Webpack
+- [X] Use Webpack
 - [ ] Build out an e-commerce type site
-- [ ] Get comfortable on a mac!
+- [X] Get comfortable on a mac!
 - [ ] Do some more data vis
 - [ ] Do more in sass
 
+### 11-02-17
+- used webpack for the first time
+- learned about the spread operator in es6 (...)
+- began another vanilla JS project
 
+### 11-01-17
+- began reading through code of a gardening project on github to possibly contribute
+- read up on ES6
+- code katas
+- printed out & organized a cheatsheet collection
 
 ## October Goals
 - [x] Start an actual team project using git/github
@@ -22,6 +31,22 @@ Jump To:
 - [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
 - [x] finish an MVC application               
 - [x] Build multiple apps with AngularJS
+
+### 10-31-17
+- finished #hacktoberfest!!
+
+### 10-30-17
+- worked through setting up a dev environment on a mac.
+- researched homebrew and dotfiles.
+- added a few projects to portfolio
+
+### 10-29-17
+- reviewed mocha, karma, and chai for JS testing
+
+### 10-28-17
+- js code katas
+- build out vanilla js app with lots of dom manipulation
+
 ### 10-27-17
 - dug into dom manipulation in both vanilla JS and jquery
 
