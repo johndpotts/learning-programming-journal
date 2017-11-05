@@ -11,6 +11,16 @@ Jump To:
 - [X] Get comfortable on a mac!
 - [ ] Do some more data vis
 - [ ] Do more in sass
+- [ ] Write more modular code
+
+### 11-04-17
+- learned more ES6 (arrow functions, multi-line strings, template literals)
+- really nasty algorithm in JS
+
+### 11=03-17
+- worked more on webpack
+- js algorithms
+
 
 ### 11-02-17
 - used webpack for the first time
