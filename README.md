@@ -11,7 +11,9 @@ Jump To:
 - [X] Get comfortable on a mac!
 - [ ] Do some more data vis
 - [ ] Do more in sass
-- [ ] Write more modular code
+- [ ] Finish ES6 Udacity Course
+- [ ] Finish forms Udacity course
+- [ ] Finish promises udacity course
 
 ### 11-04-17
 - learned more ES6 (arrow functions, multi-line strings, template literals)
