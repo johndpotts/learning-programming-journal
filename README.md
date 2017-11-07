@@ -9,11 +9,23 @@ Jump To:
 - [X] Use Webpack
 - [ ] Build out an e-commerce type site
 - [X] Get comfortable on a mac!
-- [ ] Do some more data vis
+- [X] Do some more data vis
 - [ ] Do more in sass
 - [ ] Finish ES6 Udacity Course
 - [ ] Finish forms Udacity course
-- [ ] Finish promises udacity course
+- [X] build cheat sheet binder
+
+### 11-07-17
+- contnued Udacty forms course
+- updated and improved forms on personal projects with features like autocomplete, autofocus, placeholders, and label improvements.
+
+### 11-06-17
+- began udacity forms course
+- worked on modular JS code
+
+### 11-05-17
+- worked on promises course
+- js algorithms
 
 ### 11-04-17
 - learned more ES6 (arrow functions, multi-line strings, template literals)
