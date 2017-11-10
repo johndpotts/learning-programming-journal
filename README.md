@@ -15,6 +15,18 @@ Jump To:
 - [ ] Finish forms Udacity course
 - [X] build cheat sheet binder
 
+### 11-10-17
+- continued forms course
+
+### 11-09-17
+- Dove deeper into gulp settings & build processes
+- reviewed git useage
+- worked on rebuilding checkout form
+
+### 11-08-17
+- worked on ES6
+- looked into workflow with opensource software
+
 ### 11-07-17
 - contnued Udacty forms course
 - updated and improved forms on personal projects with features like autocomplete, autofocus, placeholders, and label improvements.
