@@ -15,6 +15,11 @@ Jump To:
 - [ ] Finish forms Udacity course
 - [X] build cheat sheet binder
 
+### 11-11-17
+- did live coding excercise
+- improved readability of some JS algorithms
+- learned more about dev tools
+
 ### 11-10-17
 - continued forms course
 
