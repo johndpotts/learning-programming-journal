@@ -10,10 +10,24 @@ Jump To:
 - [ ] Build out an e-commerce type site
 - [X] Get comfortable on a mac!
 - [X] Do some more data vis
-- [ ] Do more in sass
+- [x] Do more in sass
 - [ ] Finish ES6 Udacity Course
-- [ ] Finish forms Udacity course
+- [x] Finish forms Udacity course
 - [X] build cheat sheet binder
+
+### 11-14-17
+- added on to Clt Devs site
+- worked through making some old CSS modular
+- more git practice and review
+
+
+### 11-13-17
+- finished udacity forms course
+- reviewed git commands
+
+### 11-12-17
+- js algorithms
+- worked on jsonp call in vanilla JS
 
 ### 11-11-17
 - did live coding excercise
@@ -22,6 +36,7 @@ Jump To:
 
 ### 11-10-17
 - continued forms course
+- worked more on gulp tasks
 
 ### 11-09-17
 - Dove deeper into gulp settings & build processes
@@ -67,7 +82,7 @@ Jump To:
 ## October Goals
 - [x] Start an actual team project using git/github
 - [x] Complete udemy C# course
-- [ ] build a website for a non-profit  **in progress**
+- [x] build a website for a non-profit 
 - [x] build the front end of a site from comps      
 - [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
 - [x] finish an MVC application               
