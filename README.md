@@ -12,6 +12,7 @@ Jump To:
 - [X] Do some more data vis
 - [x] Do more in sass
 - [ ] Finish ES6 Udacity Course
+- [ ] Set up blog with jekyll
 - [x] Finish forms Udacity course
 - [X] build cheat sheet binder
 
