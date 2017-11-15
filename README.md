@@ -15,6 +15,8 @@ Jump To:
 - [ ] Set up blog with jekyll
 - [x] Finish forms Udacity course
 - [X] build cheat sheet binder
+### 11-15-17
+- started setting up blog with jekyll
 
 ### 11-14-17
 - added on to Clt Devs site
