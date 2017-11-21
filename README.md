@@ -7,7 +7,6 @@ Jump To:
 - [ ] Build one good angular 4 app
 - [ ] Get comfortable with testing in JS
 - [X] Use Webpack
-- [ ] Build out an e-commerce type site
 - [X] Get comfortable on a mac!
 - [X] Do some more data vis
 - [x] Do more in sass
