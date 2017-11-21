@@ -15,8 +15,29 @@ Jump To:
 - [ ] Set up blog with jekyll
 - [x] Finish forms Udacity course
 - [X] build cheat sheet binder
+
+### 11-20-17
+- worked more on jekyll site
+- troubleshooting with ruby setup
+- got it working though!!
+
+### 11-19-17
+- worked on ios fixes for portfolio projects
+
+### 11-18-17
+- looked more into react
+- js algorithms
+
+### 11-17-17
+- deep dive into algorithm efficiency
+
+
+### 11-16-17
+worked more on jekyll blog themes
+
 ### 11-15-17
 - started setting up blog with jekyll
+- gulp scripts
 
 ### 11-14-17
 - added on to Clt Devs site
