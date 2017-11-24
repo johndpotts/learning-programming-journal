@@ -11,9 +11,28 @@ Jump To:
 - [X] Do some more data vis
 - [x] Do more in sass
 - [ ] Finish ES6 Udacity Course
-- [ ] Set up blog with jekyll
+- [x] Set up blog with jekyll
 - [x] Finish forms Udacity course
 - [X] build cheat sheet binder
+
+### 11-24-17
+- recapped unix commands
+- recapped git commands
+- read some npm documentation
+- learned about autoprefixer
+
+### 11-23-17
+- planned out blog posts
+- worked on vanilla JS method cheat sheet
+- worked on setting up environment to start live coding videos
+
+### 11-22-17
+- worked on some react fundamentals
+- started working on using D3js in react
+
+### 11-21-17
+- read up on JSON web tokens and load balancers
+- worked on personal portfolio project ios fixes
 
 ### 11-20-17
 - worked more on jekyll site
