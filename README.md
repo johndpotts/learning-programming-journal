@@ -10,7 +10,7 @@ Jump To:
 - [X] Get comfortable on a mac!
 - [X] Do some more data vis
 - [x] Do more in sass
-- [ ] Finish ES6 Udacity Course
+- [ ] Finish networking Udacity Course
 - [x] Set up blog with jekyll
 - [x] Finish forms Udacity course
 - [X] build cheat sheet binder
