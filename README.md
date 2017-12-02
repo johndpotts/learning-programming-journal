@@ -1,10 +1,11 @@
 Jump To:
+[December](#december-goals)
 [November](#november-goals)
 [October](#october-goals)
 [September](#september-goals)
 [August](#august-goals)
 
-## December Goals
+
 
 
 ### 12-02-17
