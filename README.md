@@ -1,19 +1,62 @@
 Jump To:
+[November](#november-goals)
 [October](#october-goals)
 [September](#september-goals)
 [August](#august-goals)
 
-## November Goals
-- [ ] Build one good angular 4 app
-- [ ] Get comfortable with testing in JS
-- [X] Use Webpack
-- [X] Get comfortable on a mac!
-- [X] Do some more data vis
-- [x] Do more in sass
-- [ ] Finish networking Udacity Course
-- [x] Set up blog with jekyll
-- [x] Finish forms Udacity course
-- [X] build cheat sheet binder
+## December Goals
+
+
+### 12-02-17
+- worked through design patterns course
+
+### 12-01-17
+- learning toolset/workflow at work
+- worked on linting, improving my code writing standards
+- worked with yarn
+
+
+## December Goals
+- [ ] Deep dive into dev tools & debugging
+- [ ] Deep dive into ES6
+- [ ] Deep dive into components & DRY code
+- [ ] Do some more data vis
+- [ ] Do more in sass
+- [ ] Become proficient with Adobe Target
+- [ ] Become comfortable with the workflow at my job
+- [ ] Learn some more react
+
+### 11-30-17
+- learning toolset/workflow at work
+- **wrote my first code at work!!**
+- alot of work with adobe target
+
+
+### 11-29-17
+- learning toolset/workflow at work
+- worked through YDDJS
+- practice with call/apply/bind
+- JS algorithms
+
+### 11-28-17
+- learning toolset/workflow at work
+- worked through YDDJS
+- This practice
+- JS algorithms
+- working on ES6 solutions
+
+### 11-27-17
+- learning toolset/workflow at work
+- worked on jekyll setup
+
+### 11-26-17
+- jquery practice
+- 
+
+### 11-25-17
+- worked on jekyll
+- looked into gulp process
+- finished networking for web developers course
 
 ### 11-24-17
 - recapped unix commands
@@ -121,14 +164,18 @@ worked more on jekyll blog themes
 - code katas
 - printed out & organized a cheatsheet collection
 
-## October Goals
-- [x] Start an actual team project using git/github
-- [x] Complete udemy C# course
-- [x] build a website for a non-profit 
-- [x] build the front end of a site from comps      
-- [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
-- [x] finish an MVC application               
-- [x] Build multiple apps with AngularJS
+## November Goals
+- [X] Get comfortable with testing in JS
+- [X] Use Webpack
+- [X] Get comfortable on a mac!
+- [X] Do some more data vis
+- [x] Do more in sass
+- [X] Finish networking Udacity Course
+- [x] Set up blog with jekyll
+- [x] Finish forms Udacity course
+- [X] build cheat sheet binder
+
+
 
 ### 10-31-17
 - finished #hacktoberfest!!
@@ -293,6 +340,15 @@ worked more on jekyll blog themes
 - worked on MintHillMusic app
 - C# algorithms
 - design pattern study
+
+## October Goals
+- [x] Start an actual team project using git/github
+- [x] Complete udemy C# course
+- [x] build a website for a non-profit 
+- [x] build the front end of a site from comps      
+- [ ] finish two d3 challenges on freecodecamp   (1/2)  **in progress**
+- [x] finish an MVC application               
+- [x] Build multiple apps with AngularJS
 
 ### 09-30-17
 - c# algorithms
@@ -610,6 +666,11 @@ worked more on jekyll blog themes
 
 ### 07-06-17
 -Completed my first JS algorithm challenge (reverse a string)
+
+## July Goals
+1. ~~Learn more about JS, HTML, and CSS~~ 
+2. ~~keep workng on Free Code Camp~~
+
 
 ### 06-29-17
 - Began coding on freecodecamp
