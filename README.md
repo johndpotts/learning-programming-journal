@@ -1,5 +1,23 @@
+## Personal Learning Backlog:
+- Go through two javascript books
+- become better with modular code
+- become better with async programming
+- do some full stack programming with MEAN
+- learn ES6 well
+- do some "heavy lifting" in React
+- write something in Vue
+- write something in Ember
+
+
+## Weekly Sprint:
+[ ] complete "types and grammar" in YDKJS
+[ ] complete design patterns course videos on Udacity
+[ ] complete some JS algorithms
+[ ] write two blog posts
+
+
 Jump To:
-[December](#december-goals)
+[December](#Change-in-goal-structure)
 [November](#november-goals)
 [October](#october-goals)
 [September](#september-goals)
@@ -8,6 +26,10 @@ Jump To:
 
 
 
+### 12-03-17
+## Change in goal structure
+- as of today, I will be changing my personal learning strategy to reflect more of an agile-type planning paradigm, with a backlog of "big-picture" goals, and sprint lengths of one week where I break sub-goals into "bite size" tasks. 
+
 ### 12-02-17
 - worked through design patterns course
 
@@ -15,17 +37,6 @@ Jump To:
 - learning toolset/workflow at work
 - worked on linting, improving my code writing standards
 - worked with yarn
-
-
-## December Goals
-- [ ] Deep dive into dev tools & debugging
-- [ ] Deep dive into ES6
-- [ ] Deep dive into components & DRY code
-- [ ] Do some more data vis
-- [ ] Do more in sass
-- [ ] Become proficient with Adobe Target
-- [ ] Become comfortable with the workflow at my job
-- [ ] Learn some more react
 
 ### 11-30-17
 - learning toolset/workflow at work
