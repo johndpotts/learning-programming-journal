@@ -10,10 +10,10 @@
 
 
 ## Weekly Sprint:
-[ ] complete "types and grammar" in YDKJS
-[ ] complete design patterns course videos on Udacity
-[ ] complete some JS algorithms
-[ ] write two blog posts
+- [ ] complete "types and grammar" in YDKJS
+- [ ] complete design patterns course videos on Udacity
+- [ ] complete some JS algorithms
+- [ ] write two blog posts
 
 
 Jump To:
