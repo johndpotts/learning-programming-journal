@@ -9,11 +9,6 @@
 - write something in Ember
 
 
-## Weekly Sprint:
-- [ ] complete "types and grammar" in YDKJS
-- [ ] complete design patterns course videos on Udacity
-- [ ] complete some JS algorithms
-- [ ] write two blog posts
 
 
 Jump To:
@@ -26,9 +21,121 @@ Jump To:
 
 
 
+
+### 12-26-17
+- accessing data through element.data().attr
+- solved a few tough problems in Target
+- Jquery :eq() selector
+- worked with d3
+
+
+### 12-25-17
+MERRY CHRISTMAS!
+
+### 12-24-17
+MERRY CHRISTMAS EVE!
+
+## Weekly Sprint:
+- [ ] complete stock graph project
+- [ ] setup better home office
+- [ ] get better at straight up JS/Jquery adjustments at work
+
+### 12-23-17
+- worked with intervals and timeouts
+- react dabbling
+
+### 12-22-17
+- worked on 
+
+### 12-21-17
+- worked on search init 
+- better way of handling event listeners
+- Jquery "one"
+
+### 12-20-17
+- JS mutationobserver
+- js algorithms
+- picked through CSS issues
+
+### 12-19-17
+- finished YDKJS
+- ES6 classes
+
+### 12-18-17
+- quick python project
+- read through docs at work
+
+
+### 12-17-17
+- planned out week
+- codepen css/d3 stuff
+
+## Weekly Sprint:
+- [x] finish YDKJS
+- [x] work on wordpress site
+- [x] do a few target tasks at work
+
+### 12-16-17
+- worked on breaking down JSON data
+- cors issues
+
+### 12-15-17
+- A/B test design
+- ported over wordpress pages
+
+### 12-14-17
+- ported over wordpress pages
+- components
+
+### 12-13-17
+- ported over wordpress pages
+- components
+
+### 12-12-17
+- learned more about dev tools
+- components
+
+### 12-11-17
+- target tests
+- components
+
+### 12-10-17
+- read some articles on testing
+
+## Weekly Sprint:
+- [x] one more chapter in YDKJS
+- [x] advent of code challenges
+- [x] get better at utility classes @ work
+
+### 12-09-17
+- looked through some d3 examples 
+
+### 12-08-17
+- worked with design on new page
+
+### 12-07-17
+- worked with linting standards
+- worked with ES6 conversion
+
+### 12-06-17
+- deep dive into build process at work
+
+### 12-05-17
+- CSS selectors
+- wrote readme for onboarding at work
+
+### 12-04-17
+- worked on target a/b tests
+- worked on utility classes at work
+
 ### 12-03-17
 ## Change in goal structure
 - as of today, I will be changing my personal learning strategy to reflect more of an agile-type planning paradigm, with a backlog of "big-picture" goals, and sprint lengths of one week where I break sub-goals into "bite size" tasks. 
+
+## Weekly Sprint:
+- [x] complete "types and grammar" in YDKJS
+- [x] complete design patterns course videos on Udacity
+- [x] complete some JS algorithms
 
 ### 12-02-17
 - worked through design patterns course
@@ -63,7 +170,6 @@ Jump To:
 
 ### 11-26-17
 - jquery practice
-- 
 
 ### 11-25-17
 - worked on jekyll
