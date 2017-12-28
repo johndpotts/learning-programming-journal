@@ -1,14 +1,15 @@
 ## Personal Learning Backlog:
-- Go through two javascript books
 - become better with modular code
 - become better with async programming
 - do some full stack programming with MEAN
-- learn ES6 well
 - do some "heavy lifting" in React
 - write something in Vue
 - write something in Ember
 
-
+## Blog ideas:
+- unidirectional vs two-way data binding
+- self-teaching
+- 
 
 
 Jump To:
@@ -20,7 +21,13 @@ Jump To:
 
 
 
+### 12-28-17
+- learned about application vs component state in React. 
+-  learned about unidirectional data flow in React
 
+### 12-27-17
+- started react course on treehouse
+- got more comfortable with JSX and react components
 
 ### 12-26-17
 - accessing data through element.data().attr
