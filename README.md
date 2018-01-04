@@ -20,6 +20,17 @@ Jump To:
 [August](#august-goals)
 
 
+### 01-04-17
+### 01-03-17
+- worked on CSS Animations
+### 01-02-17
+- a/b tests
+- site redesign
+- advanced jquery
+### 01-01-17
+### 12-31-17
+### 12-30-17
+### 12-29-17
 
 ### 12-28-17
 - learned about application vs component state in React. 
