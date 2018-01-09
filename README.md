@@ -20,7 +20,22 @@ Jump To:
 [August](#august-goals)
 
 
+### 01-09-17
+redux is good for when state needs to be managed across different components in a react app
+reducers in redux are pure functions tat do not mutate the current state
+
+
+### 01-08-17
+- worked with bugs including diff versions of a library being loaded
+- remember to check variable status!
+- more work with gulp
+- solved problem with email rendering
+
+### 01-07-17
+### 01-06-17
+### 01-05-17
 ### 01-04-17
+
 ### 01-03-17
 - worked on CSS Animations
 ### 01-02-17
