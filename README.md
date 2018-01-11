@@ -3,7 +3,7 @@
 |    :---:   |   :---  |
 | `.collapse` | Removes the gutter padding from the row's direct child columns. |
 | `.no-wrap` | Used on `.flex-row` to force it's children to wrap if they need to |
-| `.flex-content-container-[row &#124; column]` | Mostly used for nested column rows to make sure child columns can be aligned to the full parent container's size. |
+| `.flex-content-container-[row \| column]` | Mostly used for nested column rows to make sure child columns can be aligned to the full parent container's size. |
 |   .[flex-property]-[value]-[breakpoint]   | Used to align a row's columns. See the table below. Breakpoint naming follows the visibility class convention (ex. `-md` = only, `-md-up` = min, `-md-down` = max) |
 
 ## Personal Learning Backlog:
