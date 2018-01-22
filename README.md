@@ -20,6 +20,10 @@ Jump To:
 [September](#september-goals)
 [August](#august-goals)
 
+### 01-22-18
+- set up a wordpress site for a friend
+- did a few code katas
+
 ### 01-10-18
 - worked on API documentation
 - continued implementing redux into react app
