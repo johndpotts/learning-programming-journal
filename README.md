@@ -1,17 +1,18 @@
 
-## Personal Learning Backlog:
-- become better with modular code
-- become better with async programming
-- do some full stack programming with MEAN
-- do some "heavy lifting" in React
-- write something in Vue
-- write something in Ember
+Weekly goals for 07/22/18:
+1. Teach my first workshop
+2. Take my blog live
+3. Write 2 blog posts
+4. Keep learning AEM
 
-## Blog ideas:
-- unidirectional vs two-way data binding
-- self-teaching
-- 
 
+
+
+
+
+
+## Learning Programming Log:
+This isn't perfect, but it's a pretty good record of my day to day tasks as I learned coding! You can navigate through and see what I worked on in different months  below. In summary, I didn't do everything perfectly; you can see for yourself that I did a good amount of bouncing around. Here's what I did well though: I kept working and kept learning, every single day!
 
 Jump To:
 [December](#Change-in-goal-structure)
@@ -172,8 +173,7 @@ MERRY CHRISTMAS EVE!
 - worked on utility classes at work
 
 ### 12-03-17
-## Change in goal structure
-- as of today, I will be changing my personal learning strategy to reflect more of an agile-type planning paradigm, with a backlog of "big-picture" goals, and sprint lengths of one week where I break sub-goals into "bite size" tasks. 
+
 
 ## Weekly Sprint:
 - [x] complete "types and grammar" in YDKJS
