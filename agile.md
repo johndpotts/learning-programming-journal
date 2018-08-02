@@ -18,3 +18,8 @@ excellent finished product.
 
 
 ## Rule #4: Be Responsible
+
+## Rule #5: Learn Your ABC's
+Ok, maybe this was more of a kindergarten goal than it was a rule, but it reminds me of a key tenant in Agile workflows. 
+When teaching a class their ABC's, most teachers do a fantastic job at iterative development. They take a letter of the day, work on that letter, get it to a point where the kids know it well, and move on. No, the kids don't all get together in a "letter refinement session" and assign points to different letters ("Q has got to be at least a 13, it's going to need a bunch of API work..."). Still, tackling one chunk of a larger goal at a time is a great picture of Agile.
+
