@@ -6,7 +6,7 @@ Comments are all well and good, but part of writing clean code is writing in a w
 and tell what the code does by looking at it. Your comments should serve to provide clarification, but ideally your code will be readable without comments. To this end, you should choose names that 
 are descriptive and clearly communicate your intent. For example, a variable that stores a user's age:
 
-js```
+```js
 // bad
 const x
 
