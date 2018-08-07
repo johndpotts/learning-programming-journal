@@ -20,14 +20,23 @@ const userAge
 ```
 
 ### 2. Shorten your functions 
+This is, from my experience, an indicator of the experience level of the developer writing the code. When I first started coding, I put everything into long functions; it was easier for me to understand all the steps that were taking place this way. As you become more experienced, you will beging to realize that there are a number of benefits to separating your code into smaller functions that each handle only one task. The benefits of smaller functions include:
+- easier to test
+- easier to refactor
+- easier to see what each individual function is doing
+- less redundancy
 
-### 3. Use a consistant style
-Consistant style choices go a long way toward making code readable. If you are part of a larger development team, this is all the more important.
+Code that is made up of more and shorter functions isn't necessarily easier to write, but it is far, far easier to make adjustments to and makes for a much smoother handoff to other developers.
+
+
+### 3. Use a consistent style
+Consistent style choices go a long way toward making code readable. If you are part of a larger development team, this is all the more important.
 My goal in contributing to a team's codebase is to make it hard to tell who wrote a particular line of code without checking the git blame.
 Using tools like ESLint and Prettier will go a long way toward making this happen; in fact, if there's one tip I would give to new developers that will
 make a huge difference, it's to start using those tools. They make front-end development so much faster and easier, and make youi a better developer for using them.
 
 ### 4. Don't repeat yourself
+Often referred to as the DRY principle or DRY programming, this is a natural result of breaking code into smaller functions. Smaller functions that do one thing well can then be reused. Any time you see yourself doing the same thing two or three times, you can take that as an indicator that that functionality should be separated out into its own function.
 
 ### 5. Write a lot of code, then refactor it.
 Like many skills, part of becoming a better programmer is simply spending time at it. There is no better way to learn than to build stuff.
