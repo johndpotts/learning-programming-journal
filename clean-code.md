@@ -3,8 +3,21 @@
 
 ### 1. Use clear, desciptive names for functions and variables
 Comments are all well and good, but part of writing clean code is writing in a way that another developer can easily come behind you 
-and tell what the code does by looking at it. As fun as it might be to get witty with variable names, it's important that you choose names that 
-are descriptive and clearly communicate your intent. For example, a variable 
+and tell what the code does by looking at it. Your comments should serve to provide clarification, but ideally your code will be readable without comments. To this end, you should choose names that 
+are descriptive and clearly communicate your intent. For example, a variable that stores a user's age:
+
+js```
+// bad
+const x
+
+// good
+const age
+
+// better
+const userAge
+
+/* note: the above might not be the case depending on where this variable is stored; for exampler, if it's contained in a 'user' object, then user.age would be very clear and user.userAge would be redundant. */
+```
 
 ### 2. Shorten your functions 
 
