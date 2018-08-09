@@ -1,4 +1,8 @@
-## Writing Cleaner Code
+Some of the best advice I was given as a junior developer is this:
+
+"You're not writing code for yourself, or even code to accomplish a task. You're writing code for the next person to come in, understand, and make changes to."
+
+One of the tough things about development is that there are hundreds of ways to accomplish the same thing. How should I structure and write code when I have so many options available, all of which would produce the desired outcome? The following are a few guidelines for keeping your code clean. Follow these, and hopefully you'll make whoever inherits your code a little bit happier!
 
 
 ### 1. Use clear, desciptive names for functions and variables
