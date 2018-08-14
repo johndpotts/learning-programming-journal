@@ -1,12 +1,4 @@
 
-Weekly goals for 07/22/18:
-1. Teach my first workshop
-2. Take my blog live
-3. Write 2 blog posts
-4. Keep learning AEM
-
-
-
 
 
 
