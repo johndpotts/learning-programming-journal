@@ -2,7 +2,7 @@ One of the most common patterns in software design is called the MVC (Model - Vi
 The goal of this pattern, as with most good software design, is to provide a separation of concerns 
 between different parts of an application.
 ***
-## maintaining a separation of concerns means that each part of an application should be concerned with only its own area of responsibility
+### maintaining a separation of concerns means that each part of an application should be concerned with only its own area of responsibility
 ***
 
 
