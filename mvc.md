@@ -1,6 +1,10 @@
 One of the most common patterns in software design is called the MVC (Model - View - Controller). 
 The goal of this pattern, as with most good software design, is to provide a separation of concerns 
 between different parts of an application.
+***
+## maintaining a separation of concerns means that each part of an application should be concerned with only its own area of responsibility
+***
+
 
 ```js
 const model = {
@@ -23,7 +27,6 @@ remove: function(itemName, list) {
     model[list].push(itemName)
   }
 }
-
 
 
 controller.add('apples', 'groceryList');
@@ -51,6 +54,7 @@ const model = {
   groceryList: []
 }
 ```
+
 ### 2. The Controller
 ```js
 const controller = {
