@@ -87,7 +87,6 @@ const view = {
 ```
 Our view doesn't keep track of the data or perform any operations on the data; it simply takes care of rendering it in a way the user can understand. In this case the view's only function is readList, which console.logs a heading with the list name, then console.logs each item on the list.
 
-Should the view read directly from the model or access te model through the controller? In a more complex application it would probably be better for the view to access the model through the controller (thus giving us the ability to do things like changing out different models), but it's also a valid application of the MVC pattern for the view to read directly from the model; it just can't perform any operations on the model.
+Should the view read directly from the model or access the model through the controller? In a more complex application it would probably be better for the view to access the model through the controller (thus giving us the ability to do things like changing out different models), but it's also a valid application of the MVC pattern for the view to read directly from the model; it just can't perform any operations on the model.
 
-
-In the real world, there are a number of variations on the MVC theme. There is the M
+Many variations on MVC exist across different software ecosystems; these include MVP and MVVM, as well as a number of other, more nuanced variations. As applications perform complex operations like network calls and data transformations it becomes difficult to fit everything neatly inside just three areas; as such it is more productive to take the basic concept behind MVC - namely, a deliberate separation of concerns - and apply it to your application architecture.
