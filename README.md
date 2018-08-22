@@ -286,7 +286,7 @@ worked more on jekyll blog themes
 - looked into workflow with opensource software
 
 ### 11-07-17
-- contnued Udacty forms course
+- continued Udacty forms course
 - updated and improved forms on personal projects with features like autocomplete, autofocus, placeholders, and label improvements.
 
 ### 11-06-17
