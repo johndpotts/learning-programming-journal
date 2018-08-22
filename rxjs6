@@ -1,0 +1,25 @@
+
+
+New Updates in RxJs6
+```js
+
+// before
+observable
+  .do(logger.log(x))
+  .map(x => x * 2)
+  .subscribe(x => {
+    console.log('Value is', x);
+  });
+```
+
+```js
+// after
+observable
+  .pipe(
+    tap(logger.log(x)),
+    map(x => x * 2)
+  )
+  .subscribe(x => {
+    console.log('Value is', x);
+  });
+  ```
