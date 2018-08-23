@@ -35,6 +35,14 @@ The import path for operators has also changed. Operators are now stored in a co
 import { map } from 'rxjs/operators';
 ```
 
+These file changes let us import smaller code segments, leading to reduced bundle sizes.
+
+
+### Operator Name Changes
+
+Because the way operator
+
+
 ```js
 observable
   .do(logger.log(x))
