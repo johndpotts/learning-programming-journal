@@ -1,9 +1,41 @@
 
 
-New Updates in RxJs6
-```js
+Angular 6 Changes - New Updates to RxJs
+Angular 6 brings with it some changes to Observables and Operators in RxJs(The Reactive Extensions library).
+For starters, Angular 6 is the first version of Angular where RxJs is required. While RxJs has been used in Angular applications for a long time, it's no longer an optional add-on starting with Angular 6.
 
-// before
+The version of RxJs required by Angular 6 is RxJs6; this version has some significant, potentially breaking changes from RxJs 5. 
+
+But wait - before you get too stressed out, you should know up front that there is an incredibly simple way to ensure backward-compatibility. All you need to do is run the following line in terminal from your project directory:
+
+
+```js
+npm install --save rxjs-compat
+```
+
+This installs the rxjs-compat package, which will automatically make your code compatible with RxJs 6. 
+
+
+Now that the issue of backward compatibility is settled, let's move on to a look at what we need to start doing differently in Angular 6 when working with observables:
+
+### File Structure
+The first thing that should be mentioned about the update to RxJs6 is that the RxJs library has made a big change in file structure that will affect our import statements. Instead of importing Observable and Subject from subfolders within rxjs, we now import them directly:
+```
+import { Observable } from 'rxjs/Observable';
+```
+
+##### becomes
+
+```
+import { Observable } from 'rxjs';
+```
+The import path for operators has also changed. Operators are now stored in a common subfolder: the new import statements look like this:
+
+```
+import { map } from 'rxjs/operators';
+```
+
+```js
 observable
   .do(logger.log(x))
   .map(x => x * 2)
@@ -12,8 +44,9 @@ observable
   });
 ```
 
+##### becomes
+
 ```js
-// after
 observable
   .pipe(
     tap(logger.log(x)),
