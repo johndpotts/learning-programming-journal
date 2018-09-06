@@ -1,0 +1,10 @@
+- Shout-outs
+- Root cause analysis (fishbone diagram)
+- Change location
+- Take turns facilitating
+- Define and focus on actionable items
+- Invite a customer in
+- Change what you’re doing (http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
+- Make  poster / visual with takeaways
+- Start with an icebreaker
+- Review progress
