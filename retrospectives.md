@@ -14,11 +14,16 @@ It might sound silly, but enjoying a cup of coffee and some snacks during a retr
 
 
 ### Keep the retrospective fresh
-Here are a few things you can do to "freshen up" your next retrospective:
-##### 4. Take turns facilitating
-##### 5. Change what you’re doing (http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
-##### 6. Change your location
+Another important part of holding regular retrospectives is making sure the process doesn't become too routine. When the same exact format is used every single week your team can become bored and disengaged; that's why you should change things up! Here are a few things you can do to "freshen up" your next retrospective:
 
+##### 4. Take turns facilitating
+This shouldn't be done in a brand new team, but once a team has gone through a few retrospectives together, have different team members take turns leading. This will serve a dual purpose - it will naturally change up your retrospectives as team members bring their own styles to the facilitator role, and it will make teammates more empathetic toward whoever is facilitating on a regular basis. It also helps a team rely less on the scrum master (assuming that is the person who regularly facilitates).
+
+##### 5. Change what you’re doing 
+While there are certain things that should be done at each retrospective (ie, the keep doing, start doing, and stop doing model), the way these questions are presented should be changed up regularly. There are quite a few resources available online that offer unique spins on the retrospective format... if you're drawing a blank, start by checking out the retrospective plans and activities (here)[http://retrospectivewiki.org/index.php?title=Retrospective_Plans].
+
+##### 6. Change your location
+Sometimes all it takes to freshen things up is a change of scenery. Anything from a conference room on a different floor to a booth at a restaurant or an offsite facility will do; the important thing is that you put your team in different surroundings - you'd be surprised how much this can freshen up a retrospective. One great approach for smaller teams is the "walking retrospective" - do your retrospective while walking around a nearby park!
 
 ### Discover underlying issues
 The real power of a retrospective happens when you dig down beyond surface-level reactions and discover the real causes behind the obstacles your team is facing. Here are a few ways to dig out underlying issues during your retrospectives:
