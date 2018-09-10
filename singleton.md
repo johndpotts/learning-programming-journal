@@ -10,7 +10,7 @@ The shared printer in this analogy is a great example of a singleton. One, share
 
 In the Angular framework, many services are registered at the app module level and set up as singletons (the Angular Router being one example). In vanilla JS, singletons are generally set up as globally accessible namespaces. The JQuery is one example of a well-known singleton pattern. 
 
-js```
+```js
 let singletonInstance = null;
 
 class Singleton {
